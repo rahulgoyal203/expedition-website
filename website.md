@@ -1,7 +1,6 @@
 # Design Specifications
 
 ## Website Aesthetic
-Based on the Dia website inspiration:
 
 - **Background**: Gradient background transitioning from light purple/blue to soft pink/peach
   - Top: Light purple/lavender (#d8d8f6)
